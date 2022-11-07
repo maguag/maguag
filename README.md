@@ -15,5 +15,3 @@ I, Five
 <img src="https://github-readme-stats.vercel.app/api?username=MaguaG&count_private=true" width="450"/>
 </p>
 <br>
-
-
