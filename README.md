@@ -13,21 +13,21 @@
 <table>
     <tr align="center">
         <td>
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaguaG&theme=2077" /></center>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaguaG&theme=moonlight" /></center>
         </td>
         <td colspan="2">
-           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaguaG&theme=2077" />
+           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaguaG&theme=moonlight" />
        </td>        
     </tr>
     <tr align="center">
         <td>
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaguaG&theme=2077" /></center>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaguaG&theme=moonlight" /></center>
         </td>
         <td>
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaguaG&theme=2077&utcOffset=8" /></center>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaguaG&theme=moonlight&utcOffset=8" /></center>
         </td>
         <td>
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaguaG&theme=2077" /></center>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaguaG&theme=moonlight" /></center>
         </td>
     </tr>
 </table>
