@@ -29,7 +29,6 @@
         <td>
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaguaG&theme=2077" /></center>
         </td>
-
     </tr>
 </table>
 <br>
