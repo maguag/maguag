@@ -10,7 +10,7 @@
 </h3>
 
 <br>
-<table border = "0px">
+<table>
     <tr align="center">
         <td>
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaguaG&theme=2077" /></center>
