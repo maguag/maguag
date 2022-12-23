@@ -12,22 +12,22 @@
 <br>
 <table>
     <tr align="center">
-        <td>
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaguaG&theme=moonlight" /></center>
-        </td>
         <td colspan="2">
-           <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaguaG&theme=moonlight" /></center>
-       </td>        
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maguag&theme=moonlight" /></center>
+        </td> 
+        <td>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maguag&theme=moonlight" /></center> 
+        </td>       
     </tr>
     <tr align="center">
         <td>
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaguaG&theme=moonlight" /></center>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaguaG&theme=moonlight" /></center>
         </td>
         <td>
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaguaG&theme=moonlight&utcOffset=8" /></center>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maguag&theme=moonlight&utcOffset=8" /></center>
         </td>
         <td>
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaguaG&theme=moonlight" /></center>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maguag&theme=moonlight" /></center>
         </td>
     </tr>
 </table>
