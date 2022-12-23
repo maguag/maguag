@@ -10,14 +10,26 @@
 </h3>
 
 <br>
-<table>
-    <tr>
-        <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=MaguaG&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+<table border = "0px">
+    <tr align="center">
+        <td>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaguaG&theme=2077" /></center>
         </td>
-        <td >
-            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaguaG&theme=github_dark&show_icons=true" align="right" /></center>
+        <td colspan="2">
+           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaguaG&theme=2077" />
+       </td>        
+    </tr>
+    <tr align="center">
+        <td>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaguaG&theme=2077" /></center>
         </td>
+        <td>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaguaG&theme=2077&utcOffset=8" /></center>
+        </td>
+        <td>
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaguaG&theme=2077" /></center>
+        </td>
+
     </tr>
 </table>
 <br>
