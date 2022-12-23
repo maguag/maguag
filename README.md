@@ -16,7 +16,7 @@
             <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaguaG&theme=moonlight" /></center>
         </td>
         <td colspan="2">
-           <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaguaG&theme=moonlight" />
+           <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaguaG&theme=moonlight" /></center>
        </td>        
     </tr>
     <tr align="center">
